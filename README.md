@@ -9,3 +9,5 @@ Plot: A scuba diver is LostAtSea and needs to swim back to his cruise ship while
 Music: Knee Deep by Zac Brown Band
 
 Makefile and myLib.h were created by TAs with the intent of being manipulated by students
+
+----- main.c contains most of my original methods and creative decisions!
