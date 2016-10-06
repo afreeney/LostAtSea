@@ -11,3 +11,5 @@ Music: Knee Deep by Zac Brown Band
 Makefile and myLib.h were created by TAs with the intent of being manipulated by students
 
 ----- main.c contains most of my original methods and creative decisions!
+
+If you are like most people and don't have a Gameboy simulator on your perosnal computer, go to this link to watch me play the game! https://www.youtube.com/watch?v=bgD0y59XGSQ
